@@ -5,7 +5,7 @@
 - [Why Aquis & What You Know About Them](03-why-aquis/README.md)
 - [Technical Skills Talking Points (If probed on day-to-day work)](04-technical-skills/README.md)
 - [Logistics, Location & Salary](05-logistics-salary/README.md)
-- [Smart Questions to Ask Jack](06-questions-for-jack/README.md)
+- [Questions to ask](06-questions-for-jack/README.md)
 - [Job spec — Operations Analyst](07-job-spec/README.md)
 - [Who they need](08-who-they-need/README.md)
 - [Key technical skills](09-key-technical-skills/README.md)
