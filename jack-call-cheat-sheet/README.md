@@ -8,3 +8,4 @@
 - [Smart Questions to Ask Jack](06-questions-for-jack/README.md)
 - [Job spec — Operations Analyst](07-job-spec/README.md)
 - [Who they need](08-who-they-need/README.md)
+- [Key technical skills](09-key-technical-skills/README.md)
