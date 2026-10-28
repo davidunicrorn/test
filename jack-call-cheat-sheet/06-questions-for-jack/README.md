@@ -1,6 +1,6 @@
 # Questions to ask
 
-Ask these with the recruiter and again with Jack. They show you are trying to understand the desk and where you would help.
+Jack is the headhunter on this call. The same questions work again in a later round with the hiring manager. They show you are trying to understand the desk and where you would help.
 
 1. Which platforms does this seat cover first — Aquis Markets, client exchanges, AQSE — or the whole set?
 2. Where does Exchange Operations spend most of its time right now: live client issues, or standing up the next venue?
